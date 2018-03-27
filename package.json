@@ -1,0 +1,22 @@
+{
+  "name": "learning-reactive",
+  "version": "0.0.1",
+  "description": "## Topics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangvanthanh/learning-reactive.git"
+  },
+  "author": "Dang Van Thanh <chieuhue@gmail.com> (dangthanh.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dangvanthanh/learning-reactive/issues"
+  },
+  "homepage": "https://github.com/dangvanthanh/learning-reactive#readme",
+  "dependencies": {
+    "rxjs": "^5.5.8"
+  }
+}
